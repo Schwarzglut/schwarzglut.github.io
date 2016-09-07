@@ -1,4 +1,4 @@
-document.getElementById("foot01").innerHTML = "<p>&copy; Joseph Gillen</p>" + new Date().getFullYear();
+document.getElementById("foot01").innerHTML = "<p>&copy; Joseph Gillen Game Deveoper</p>" + new Date().getFullYear();
 
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
